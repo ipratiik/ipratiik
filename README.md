@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik.</h1>
 <h3 align="center">A passionate, aspiring WebDev and DevOps Engineer from India.</h3>
 
+![Github Cover Image](https://raw.githubusercontent.com/ipratiik/ipratiik/main/Github%20Cover.png)</br></br>
 [![An image of @ipratiik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ipratiik)](https://holopin.io/@ipratiik)
 </br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipratiik" alt="ipratiik" /></a> </p>
