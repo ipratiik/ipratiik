@@ -12,9 +12,9 @@
 <h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on **myself.**
-- 🌱 I’m currently learning **Javascript, React Js, Database Management.**
+- 🌱 I’m currently learning **Java, Spring Boot, Javascript, React Js, Database Management.**
 - 👨‍💻 All of my projects are available at [ipratiik](https://github.com/ipratiik).
-- 💬 Ask me about **Mongo DB, Operating System.**
+- 💬 Ask me about **Mongo DB, Operating System, Database Management**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
